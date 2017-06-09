@@ -14,6 +14,7 @@ may begin a new game again. It is a very simple game designed to give an intrigu
 simple word, where clues are provided to ease the difficult of guessing a word.
 
 Design tools
+
 ->Android studio 2.3.3  
 
 ->SDK version 23
